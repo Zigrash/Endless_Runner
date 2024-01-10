@@ -1216,3 +1216,24 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.10-17.11.42:032][500]AssetReimport: Importing new asset /Game/Endless_Runner/Character/Animations/Running_Slide.
 [2024.01.10-17.11.42:032][500]AssetReimport: Importing new asset /Game/Endless_Runner/Character/Animations/Sprinting_Forward_Roll.
 [2024.01.10-17.13.24:458][316]LogDerivedDataCache: C:/Users/Zigrash/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.257 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9953 files in 12487 folders with total size 3549 MiB.
+[2024.01.10-17.14.51:413][196]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.10-17.14.51:467][197]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.10-17.14.57:786][937]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.10-17.14.57:792][937]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.10-17.14.57:796][938]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.10-17.15.00:355][239]LogContentBrowser: Attempting asset rename: NewFolder -> Model
+[2024.01.10-17.15.00:355][239]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.10-17.15.05:553][853]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.10-17.15.05:561][853]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.10-17.15.05:566][854]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.10-17.15.08:037][130]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2024.01.10-17.15.08:037][130]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.10-17.17.16:715][455]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.10-17.17.16:729][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Endless_Runner_Game" FILE="E:/GitHub/Endless_Runner/CasualGame/Content/Endless_Runner_Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.10-17.17.16:747][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.10-17.17.16:754][455]LogSavePackage: Moving output files for package: /Game/Endless_Runner_Game
+[2024.01.10-17.17.16:754][455]LogSavePackage: Moving 'E:/GitHub/Endless_Runner/CasualGame/Saved/Endless_Runner_GameB5DE04DC4C9EBA5058A14E9863557247.tmp' to 'E:/GitHub/Endless_Runner/CasualGame/Content/Endless_Runner_Game.umap'
+[2024.01.10-17.17.16:758][455]LogFileHelpers: Saving map 'Endless_Runner_Game' took 0.030
+[2024.01.10-17.17.16:764][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 166 ms)
+[2024.01.10-17.17.16:764][455]AssetCheck: New page: Asset Save: Endless_Runner_Game
+[2024.01.10-17.17.16:764][455]LogContentValidation: Display: Validating /Script/Engine.World /Game/Endless_Runner_Game.Endless_Runner_Game

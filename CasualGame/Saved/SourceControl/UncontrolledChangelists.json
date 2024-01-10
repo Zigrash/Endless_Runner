@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/GitHub/Endless_Runner/CasualGame/Content/Endless_Runner/Character/Animations/Running_Slide.uasset",
-				"E:/GitHub/Endless_Runner/CasualGame/Content/Endless_Runner/Character/Animations/Sprinting_Forward_Roll.uasset"
+				"E:/GitHub/Endless_Runner/CasualGame/Content/Endless_Runner/Character/Animations/Sprinting_Forward_Roll.uasset",
+				"E:/GitHub/Endless_Runner/CasualGame/Content/Endless_Runner_Game.umap"
 			]
 		}
 	]
