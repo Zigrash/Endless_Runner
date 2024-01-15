@@ -72,10 +72,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-*.log
-*.runtime-xml
-*.ini
-*.log
-CasualGame/Saved/Logs/cef3.log
-CasualGame/Saved/Logs/CasualGame.log
-CasualGame/Saved/Logs/cef3.log
